@@ -1,0 +1,22 @@
+{
+  "name": "change-element-state",
+  "version": "1.0.0",
+  "description": "Change the element state when conditions are met.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinezdylanok/Npm-module.git"
+  },
+  "keywords": [
+    "CES"
+  ],
+  "author": "Dylan Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinezdylanok/Npm-module/issues"
+  },
+  "homepage": "https://github.com/martinezdylanok/Npm-module#readme"
+}
